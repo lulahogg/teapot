@@ -2,9 +2,26 @@
 
 OpenGL & C++
 
-This program will create a teapot that upon receving a touch/click
+This program should create a teapot that upon receving a touch/click
 event will respond with a geometry explosion and then reset
 
+**PROGRAM ACTIONS COMPLETED**
+
+- 'q' quit/exit
+- '+' zoom in
+- '_' zoom out
+- 's' smooth surface
+- 'f' flatten surface
+- 'w' wire surface
+- 'p' polygon surface
+- 'n' normal vectors 
+- 'N' remove normal vectors
+
+**PROGRAM ACTIONS NOT COMPLETED**
+- 'e' explode
+- '1' add another teapot
+- slider bar for number of teapots
+- slider bar for number of polygons
 
 **SETUP (Windows)**
 
@@ -99,3 +116,15 @@ int main(int argc, char** argv){
     return 0;
 }
 	
+**LICENING AGREEMENTS**
+
+- glew:
+	- LICENSE.txt included in download
+		- Premission is granted free of charge for use
+		- txt file has to be included in all copies or 
+		  substantial portions of the Materials
+- freeglut:
+	- Copying.txt
+		- Premission is granted free of charge for use 
+                - txt file has to be included in all copies or 
+                  substantial portions of the Materials

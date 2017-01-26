@@ -16,6 +16,7 @@ event will respond with a geometry explosion and then reset
 - 'p' polygon surface
 - 'n' normal vectors 
 - 'N' remove normal vectors
+- movement created by mouse drag or touch screen
 
 **PROGRAM ACTIONS NOT COMPLETED**
 - 'e' explode

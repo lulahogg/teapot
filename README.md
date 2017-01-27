@@ -5,6 +5,9 @@ OpenGL & C++
 This program should create a teapot that upon receving a touch/click
 event will respond with a geometry explosion and then reset
 
+*Program does not have exploding teapot*
+*Program also is not built for mobile device*
+
 **PROGRAM ACTIONS COMPLETED**
 
 - 'q' quit/exit
